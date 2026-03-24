@@ -56,6 +56,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    | Média      | Como Cliente, quero visualizar um exemplo de layout do Power BI, para validar se a disposição de informações atendem às expectativas                    | 2        | 1     |
 | 4    | Média      | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis           | 5          | 2      |
 | 5    | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 6    | Alta       | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas      | 5          | 2      |     
 
 
 
