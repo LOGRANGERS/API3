@@ -53,10 +53,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como Cliente, quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada, para obter uma análise organizada e confiável.  | 5          | 1      |
 | 2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | 5          | 1      |
-| 3    | Média      | Como Cliente, quero visualizar um protótipo de layout do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
+| 3    | Alta       | Como Cliente, quero visualizar um protótipo de layout do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
 | 4    | Média      | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis entre estados.          | 5          | 2      |
 | 5    | Média      | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | 3          | 2      |
-| 5    | Alta       | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      |     
+| 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      |     
 | 6    | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | 7          | 3      | 
 | 7    | Média      | Como analista, quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.    | 7          | 3      | 
 | 8    | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | 7          | 4      | 
