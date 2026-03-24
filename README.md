@@ -53,8 +53,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
 | 1    | Alta       | Como Cliente, quero visualizar uma análise dos dados tratados das bases de dados do PRF, DATASUS, DENATRAN e IBGE para a visualização organizada dos mesmos  | 5          | 1      |
 | 2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base de dados, dos anos 2024 até 2025 para a criação do dashboard interativo  | 5          | 1      |
-| 3    | Média      | Como Cliente, quero uma divisão dos estados por número de habitantes, para uma melhor conparação de taxa de mortalidade sem grande disparidade            | 8          | 1      |
-| 4    | Média      | Como Cliente, quero visualizar um exemplo de layout do Power BI, para validar se a disposição de informações atendem às expectativas                    | 2        | 1     |
+| 3    | Média      | Como Cliente, quero visualizar um exemplo de layout do Power BI, para validar se a disposição de informações atendem às expectativas                    | 2        | 1     |
+| 4    | Média      | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis           | 5          | 2      |
 | 5    | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
 
 
