@@ -59,8 +59,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      |     
 | 6    | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | 7          | 3      | 
 | 7    | Média      | Como analista, quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.    | 7          | 3      | 
-| 8    | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | 7          | 4      | 
-| 9    | Baixa      | Como usuário, quero visualizar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes, para identificar os melhores e piores desempenhos.   | 8          | 4      | 
+| 8    | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | 7          | 3      | 
+| 9    | Baixa      | Como usuário, quero visualizar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes, para identificar os melhores e piores desempenhos.   | 8          | 3      | 
 
 
 
