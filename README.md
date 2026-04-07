@@ -1,7 +1,7 @@
 # Log Rangers
 
 Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
+blob:https://web.whatsapp.com/4b02f5e7-5201-4417-908c-2763e1896d49
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
