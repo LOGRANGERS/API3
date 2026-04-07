@@ -1,7 +1,8 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - SPRINT 1
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+> Descrever de forma clara qual é o propósito do MVP:
+- O objetivo do MVP dessa sprint é coletar e analisar os dados de acidentes viários, organizando-os e   
 - Qual problema resolve?  
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
@@ -25,9 +26,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1    | Alta       | Como Cliente, quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada, para obter uma análise organizada e confiável.  | 5          | 1      |
-| US2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | 5          | 1      |
-| US3    | Alta       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
+| 1    | Alta       | Como Cliente, quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada, para obter uma análise organizada e confiável.  | 5          | 1      |
+| 2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | 5          | 1      |
+| 3    | Alta       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
 ---
 
 ## 📅 Sprint(s) Relacionadas
