@@ -1,7 +1,6 @@
 # Log Rangers
 
-![4b02f5e7-5201-4417-908c-2763e1896d49](https://github.com/user-attachments/assets/230c5bd7-eec1-4f68-bcc2-a49042524dd8)
-
+![57ccb3d4-3448-438d-b297-2a0124b58ebf](https://github.com/user-attachments/assets/f60b81c2-17a6-419e-9944-53039881e04c)
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
