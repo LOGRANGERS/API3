@@ -9,7 +9,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
+> Breve explicação do que será desenvolvido e entregue nesta etapa.
+- Nesta etapa, vai ser desenvolvido o protótipo do power BI, com base nos dados retirados do PRF, possibilitando a visualização dos dados dos anos 2024 e 2025, tendo acesso a dados sobre... A principal limitação foi a dificuldade com o tratamento e integração dos dados. O escopo foi realizado para responder a pergunta: "Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?".
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
