@@ -1,7 +1,6 @@
 /# 📌 MVP - SPRINT 1
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:
 - O objetivo é coletar e analisar os dados de acidentes viários, organizando-os em sprints, resolvendo o problema de análise da base de dados, assim, gerando gráficos, mapas, filtros e cartões. O valor entregue nessa sprint, serão os dados tratados, a integração deles e nosso protótipo do power BI.
 - Qual problema resolve?  
 - Qual hipótese será validada?  
