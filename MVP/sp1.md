@@ -18,7 +18,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Cliente:** breve descrição, necessidades e dores atendidas. O cliente seria o nosso cordenador do curso, Marcos, o que ele quer que seja entregue nessa sprint, são as use storys prontas.  
+- **Cliente:** breve descrição, necessidades e dores atendidas. O cliente seria o nosso cordenador do curso, Marcos. O que ele quer que seja entregue nessa sprint, são... 
   
 ---
 
