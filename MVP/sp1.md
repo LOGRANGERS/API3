@@ -25,9 +25,9 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| 1    | Alta       | Como Cliente, quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada, para obter uma análise organizada e confiável.  | 5          | 1      |
-| 2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | 5          | 1      |
-| 3    | Alta       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
+| 1       | Como Cliente, quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada, para obter uma análise organizada e confiável.  | Alta     | 5      |
+| 2       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | Alta          | 5      |
+| 3       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | Alta        | 2      |
 ---
 
 ## 📅 Sprint(s) Relacionadas
