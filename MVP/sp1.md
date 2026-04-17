@@ -33,8 +33,9 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |  quero visualizar os dados tratados das bases PRF, DATASUS, DENATRAN e IBGE de forma integrada.                       | Concluído|
+| 02     |  quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025.                      | Concluído|
+| 03     |  quero visualizar um protótipo do Power BI.            | Em andamento|
 
 ---
 
