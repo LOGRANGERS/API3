@@ -18,9 +18,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Cliente:** breve descrição, necessidades e dores atendidas. O cliente seria o nosso cordenador do curso, Marcos, o que ele quer que seja entregue nessa sprint, são as use storys prontas.  
+  
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
