@@ -11,12 +11,11 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Cliente:** breve descrição, necessidades e dores atendidas. O cliente seria o nosso cordenador do curso, Marcos. O que ele quer que seja entregue nessa sprint, são...
-- **Persona 1**: Cliente 1 – Marcos (Coordenador)
+ **Persona 1**: Cliente 1 – Marcos (Coordenador)
 - Descrição: Coordenador de curso da Fatec, e responsável por orientar e validar o projeto.
 - Necessidade: Dados de acidentes viários organizados, integrados e confiáveis para análise.
 - Objetivo: Validar se o dashboard apresenta as informações de forma clara e útil.
-- **Persona 2**: Cliente 2 – Observatório
+ **Persona 2**: Cliente 2 – Observatório
 - Descrição: Núcleo de inteligência que utiliza dados para gerar informações estratégicas e apoiar decisões.
 - Necessidade: Visualizar indicadores, padrões e tendências a partir de grandes volumes de dados.
 - Dor: Dificuldade em transformar dados brutos em análises rápidas e visuais.
