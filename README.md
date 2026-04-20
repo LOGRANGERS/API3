@@ -26,22 +26,21 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo desenvolver um dashboard interativo com dados agregados de segurança viária, permitindo análises comparativas entre estados e indicadores de risco em todo território nacional.
+* Integrar diferentes bases de dados públicas;
+* Analisar os indicadores de sinistralidade no trânsito, com foco em veículos pesados;
+* Desenvolver um dashboard interativo em Power BI com métricas comparativas nacionais e estaduais (como mortalidade e severidade);
+* Elaborar um ranking de eficiência em segurança viária para municípios com mais de 250 mil habitantes;
 
 
 ## Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
-* Microsoft Excel
-* Slack
+* Pacote Office
 * Python (Colab)
-* Mysql
+* Whatsapp
+* Google Drive
 
 
 
