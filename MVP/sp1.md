@@ -41,9 +41,9 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário aplique filtros por estado, ano, tipo de veículo e gravidade dos sinistros.
+- O sistema deve registrar indicadores como mortalidade, sinistros e frota de forma clara e organizada.
+- Métricas coletadas: dados sobre frota nacional, incluindo veículos pesados, população e acidentes. 
 
 ---
 
