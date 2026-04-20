@@ -1,10 +1,7 @@
 /# 📌 MVP - SPRINT 1
 
 ## 🎯 Objetivo do MVP
-- O objetivo é coletar e analisar os dados de acidentes viários, organizando-os em sprints, resolvendo o problema de análise da base de dados, assim, poderíamos também gerar mapas, filtros, cartões, dentre outros. O valor entregue nessa sprint, serão os dados tratados, a integração deles e nosso protótipo do power BI.
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- O objetivo é resolver a dificuldade de análise dos dados de acidentes viários. A hipótese a ser validada é que, ao tratar e integrar esses dados em um dashboard interativo no Power BI, será possível facilitar a visualização e compreensão das informações. O valor entregue ao usuário final será um protótipo funcional com dados tratados, permitindo análises por meio de filtros, mapas e indicadores, apoiando a tomada de decisão.
 
 ---
 
