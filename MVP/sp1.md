@@ -11,7 +11,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1**: Cliente 1 – Marcos (Coordenador)
+- **Persona 1**: Cliente 1 – Marcus (Coordenador)
 - Descrição: Coordenador de curso da Fatec, e responsável por orientar e validar o projeto.
 - Necessidade: Dados de acidentes viários organizados, integrados e confiáveis para análise.
 - Objetivo: Validar se o dashboard apresenta as informações de forma clara e útil.
