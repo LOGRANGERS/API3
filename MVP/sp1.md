@@ -61,6 +61,11 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<img width="1830" height="832" alt="Frota" src="https://github.com/user-attachments/assets/b17be7fe-3672-4c04-b6ae-43dda4aa6536" />
+
+<img width="1830" height="832" alt="PRF" src="https://github.com/user-attachments/assets/49552a59-8186-4881-9f30-7b0675d91632" />
+
+<img width="1314" height="793" alt="image" src="https://github.com/user-attachments/assets/83ec0524-4c9f-4412-9de1-09e23e59dd22" />
+
+<img width="1305" height="806" alt="image" src="https://github.com/user-attachments/assets/a6aa0e97-96af-4a7a-9046-181a4fa2ff55" />
+ 
