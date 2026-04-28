@@ -69,7 +69,7 @@ Este projeto tem como objetivo desenvolver um dashboard interativo com dados agr
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
 | 00                | 24/03/2026 | Concluido | [MVP](https://youtu.be/uCeP8JmM9-4) |
-| 01                | 28/04/2026 | Em Andamento  | [MVP](MVP/sp1.md)  |
+| 01                | 28/04/2026 | Concluido | [MVP](MVP/sp1.md)  |
 | 02                | 12/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 02/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
