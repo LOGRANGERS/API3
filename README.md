@@ -53,7 +53,9 @@ Este projeto tem como objetivo desenvolver um dashboard interativo com dados agr
 | 3    | Alta       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
 | 4    | Média      | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis entre estados.          | 5          | 2      |
 | 5    | Média      | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | 3          | 2      |
-| 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      |     
+| 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      | 
+| 6    | Média      | Como Cliente, quero visualizar um mapa de calor, para melhor visualização das informações apresentadas.     | 3          | 2      |
+| 7    | Baixa      | Como Cliente, quero ter acesso a botões para facilitar o acesso das outras páginas do dashboard.      | 3          | 2      |
 | 6    | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | 7          | 3      | 
 | 7    | Média      | Como analista, quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.    | 7          | 3      | 
 | 8    | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | 7          | 3      | 
@@ -70,7 +72,7 @@ Este projeto tem como objetivo desenvolver um dashboard interativo com dados agr
 |-------------------|------------|----------|-----------|
 | 00                | 24/03/2026 | Concluido | [MVP](https://youtu.be/uCeP8JmM9-4) |
 | 01                | 28/04/2026 | Concluido | [MVP](MVP/sp1.md)  |
-| 02                | 26/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 02                | 26/05/2026 | em andamento  | [MVP](MVP/sp2.md)  |
 | 03                | 02/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
