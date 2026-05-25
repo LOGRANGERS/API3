@@ -32,16 +32,22 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1    | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis entre estados.          | Média     | 5      |
+| US2    | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | Média          | 3      |
+| US3    | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | Média          | 5      | 
+| US4    | Como Cliente, quero visualizar um mapa de calor, para melhor visualização das informações apresentadas.     | Média          | 3      |
+| US5    | Como Cliente, quero ter acesso a botões interativos, para facilitar o acesso das outras páginas do dashboard.      | Baixa          | 3      |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 02     | Quero calcular a taxa de mortes por 100 mil habitantes     | Concluído |
+| 02     | Quero visualizar cartões de mortalidade e sinistros em um painel resumido      | Concluído |
+| 02     | Quero aplicar filtros por ano     | Concluído |
+| 02     | Quero visualizar um mapa de calor       | Concluído |
+| 02     | Quero ter acesso a botões interativos       | Concluído |
 
 ---
 
