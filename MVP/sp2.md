@@ -1,10 +1,13 @@
 # 📌 MVP - Sprint 2
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Desenvolver melhorias no dashboard criado na Sprint 1, atendendo às solicitações do cliente por meio da implementação de um mapa de calor no Power BI para facilitar a visualização dos sinistros por região.
+- Qual problema resolve?
+Dificuldade na visualização e análise regional dos sinistros dentro do dashboard atual.
+- Qual hipótese será validada?
+Que a otimização do dashboard com recursos visuais mais intuitivos permitirá uma compreensão mais rápida e eficiente das informações.
+- Qual valor será entregue ao usuário final?
+Maior facilidade na análise dos dados, melhor visualização geográfica dos sinistros e apoio mais eficiente na tomada de decisões.
 
 ---
 
