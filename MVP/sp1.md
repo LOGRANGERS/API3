@@ -36,7 +36,7 @@
 |--------|----------------------------------------------|----------|
 | 01     |  quero visualizar os dados tratados das bases PRF, DENATRAN e IBGE de forma integrada.                       | Concluído|
 | 02     |  quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025.                      | Concluído|
-| 03     |  quero visualizar um protótipo do Power BI.            | Em andamento|
+| 03     |  quero visualizar um protótipo do Power BI.            | Concluído|
 
 ---
 
@@ -54,9 +54,8 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Após feedback foi solicitado a criação de um mapa de calor, para melhor visualização dos dados.
+- Após decisão da equipe e aprovação do cliente foram acrescentados botões interativos, para facilitar uso do dashboard.  
 
 ---
 
