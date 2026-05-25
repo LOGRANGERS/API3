@@ -2,20 +2,17 @@
 
 ## 🎯 Objetivo do MVP
 Desenvolver melhorias no dashboard criado na Sprint 1, atendendo às solicitações do cliente por meio da implementação de um mapa de calor no Power BI para facilitar a visualização dos sinistros por região.
-- Qual problema resolve?
+- Qual problema resolve:
 Dificuldade na visualização e análise regional dos sinistros dentro do dashboard atual.
-- Qual hipótese será validada?
+- Qual hipótese será validada:
 Que a otimização do dashboard com recursos visuais mais intuitivos permitirá uma compreensão mais rápida e eficiente das informações.
-- Qual valor será entregue ao usuário final?
+- Qual valor será entregue ao usuário final:
 Maior facilidade na análise dos dados, melhor visualização geográfica dos sinistros e apoio mais eficiente na tomada de decisões.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1, utilizando o Power BI para implementar um mapa de calor que permita visualizar os sinistros de forma regional e mais intuitiva. O objetivo é facilitar a interpretação dos dados e melhorar a experiência do usuário na análise das informações. A principal limitação encontrada foi a dificuldade na implementação e configuração do mapa de calor no dashboard. O escopo desta Sprint foi definido para responder à seguinte pergunta: “Quais estados apresentam a maior taxa de letalidade envolvendo veículos pesados?”.
 
 ---
 
