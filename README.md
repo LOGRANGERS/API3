@@ -55,7 +55,7 @@ Este projeto tem como objetivo desenvolver um dashboard interativo com dados agr
 | 5    | Média      | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | 3          | 2      |
 | 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      | 
 | 6    | Média      | Como Cliente, quero visualizar um mapa de calor, para melhor visualização das informações apresentadas.     | 3          | 2      |
-| 7    | Baixa      | Como Cliente, quero ter acesso a botões para facilitar o acesso das outras páginas do dashboard.      | 3          | 2      |
+| 7    | Baixa      | Como Cliente, quero ter acesso a botões, para facilitar o acesso das outras páginas do dashboard.      | 3          | 2      |
 | 6    | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | 7          | 3      | 
 | 7    | Média      | Como analista, quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.    | 7          | 3      | 
 | 8    | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | 7          | 3      | 
