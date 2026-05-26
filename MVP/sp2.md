@@ -43,11 +43,11 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 02     | Quero calcular a taxa de mortes por 100 mil habitantes     | Concluído |
-| 02     | Quero visualizar cartões de mortalidade e sinistros em um painel resumido      | Concluído |
-| 02     | Quero aplicar filtros por ano     | Concluído |
-| 02     | Quero visualizar um mapa de calor       | Concluído |
-| 02     | Quero ter acesso a botões interativos       | Concluído |
+| 02     | quero calcular a taxa de mortes por 100 mil habitantes     | Concluído |
+| 02     | quero visualizar cartões de mortalidade e sinistros em um painel resumido      | Concluído |
+| 02     | quero aplicar filtros por ano     | Concluído |
+| 02     | quero visualizar um mapa de calor       | Concluído |
+| 02     | quero ter acesso a botões interativos       | Concluído |
 
 ---
 
