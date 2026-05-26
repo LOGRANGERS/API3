@@ -61,7 +61,7 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 ## 📈 Métricas de Validação
 - Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.
 - Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores apresentados. 
-- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint (Qual é a taxa de mortes por 100 mil habitantes nos estados brasileiros?) e garantir a precisão total no cruzamento das bases de dados.
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint (Qual é a taxa de mortes por 100 mil habitantes nos estados brasileiros? E Há variação significativa nos sinistros envolvendo veículos pesados por região do país?) e garantir a precisão total no cruzamento das bases de dados.
 
 ---
 
