@@ -33,8 +33,8 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1    | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis entre estados.          | Média     | 5      |
-| US2    | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | Média          | 3      |
-| US3    | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | Média          | 5      | 
+| US2    | Como Cliente, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | Média          | 3      |
+| US3    | Como Cliente, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | Média          | 5      | 
 | US4    | Como Cliente, quero visualizar um mapa de calor, para melhor visualização das informações apresentadas.     | Média          | 3      |
 | US5    | Como Cliente, quero ter acesso a botões interativos, para facilitar o acesso das outras páginas do dashboard.      | Baixa          | 3      |
 
