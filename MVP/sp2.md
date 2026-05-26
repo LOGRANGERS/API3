@@ -78,4 +78,5 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 <img width="1307" height="805" alt="image" src="https://github.com/user-attachments/assets/3be96908-6ecc-4fe4-be78-c3bafcc24b94" />
 <img width="1304" height="803" alt="image" src="https://github.com/user-attachments/assets/7c548e70-dda9-4f41-b5b2-a2def112b0a7" />
 <img width="1300" height="796" alt="image" src="https://github.com/user-attachments/assets/93d28735-13ec-4227-91b0-811bb3523a7e" />
+<img width="1447" height="792" alt="image" src="https://github.com/user-attachments/assets/eb2015d1-56d5-45ef-8a6e-f5412989f13f" />
 
