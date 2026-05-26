@@ -52,9 +52,11 @@ Nesta etapa, será desenvolvido um aprimoramento no dashboard criado na Sprint 1
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- MVP deve permitir que o usuário visualize os sinistros por estado/região em um mapa de calor.
+- O sistema deve registrar e apresentar indicadores como quantidade de sinistros e taxa de letalidade.
+- O dashboard deve permitir filtros por período, estado ou tipo de ocorrência.
+- Métricas coletadas: tempo de carregamento do dashboard, quantidade de acessos e interação com filtros.
+- O mapa deve facilitar a identificação das regiões com maior índice de acidentes e letalidade.
 
 ---
 
