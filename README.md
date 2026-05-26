@@ -52,8 +52,8 @@ Este projeto tem como objetivo desenvolver um dashboard interativo com dados agr
 | 2    | Alta       | Como Cliente, quero visualizar a integração dos dados tratados em uma única base entre os anos de 2024 e 2025, para a criação do dashboard interativo.  | 5          | 1      |
 | 3    | Alta       | Como Cliente, quero visualizar um protótipo do Power BI, para validar se a organização das informações atendem às expectativas.                    | 2        | 1     |
 | 4    | Média      | Como Analista, quero calcular a taxa de mortes por 100 mil habitantes para gerar indicadores comparáveis entre estados.          | 5          | 2      |
-| 5    | Média      | Como usuário, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | 3          | 2      |
-| 5    | Média      | Como usuário, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      | 
+| 5    | Média      | Como Cliente, quero visualizar cartões de mortalidade e sinistros em um painel resumido, para ter uma visão geral rápida dos dados.  | 3          | 2      |
+| 5    | Média      | Como Cliente, quero aplicar filtros por ano, região e tipo de veículo para análises específicas e detalhadas.     | 5          | 2      | 
 | 6    | Média      | Como Cliente, quero visualizar um mapa de calor, para melhor visualização das informações apresentadas.     | 3          | 2      |
 | 7    | Baixa      | Como Cliente, quero ter acesso a botões interativos, para facilitar o acesso das outras páginas do dashboard.      | 3          | 2      |
 | 6    | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | 7          | 3      | 
