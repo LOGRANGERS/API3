@@ -17,14 +17,16 @@ Um dashboard interativo que permite visualizar e comparar dados de forma clara, 
 ## 📝 Descrição da Solução
 etapa foi realizada a finalização do design do dashboard desenvolvido nas sprints anteriores, aprimorando a organização visual dos indicadores, gráficos e filtros para proporcionar uma melhor experiência de uso e interpretação dos dados.
 
-## **Funcionalidades principais incluídas**
+**Funcionalidades principais incluídas**
 - Layout final padronizado e otimizado.
 - Visualização da evolução temporal dos indicadores de segurança viária.
 - Comparação entre crescimento da frota e ocorrência de sinistros fatais.
 - Filtros interativos para exploração dos dados.
-## **Limitações conhecidas**
+  
+**Limitações conhecidas**
 - A análise é limitada aos dados disponibilizados para o período de 2015 a 2025.
-## **Escopo reduzido**
+
+**Escopo reduzido**
 O escopo desta Sprint foi definido para responder às seguintes perguntas:
 - Existe correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais?
 - Como os indicadores de segurança viária evoluíram entre 2015 e 2025?
