@@ -34,8 +34,15 @@ Nesta etapa foi realizada a finalização do design do dashboard desenvolvido na
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- Persona 1: Cliente 1 – Marcus (Coordenador)
+- Descrição: Coordenador de curso da Fatec, e responsável por orientar e validar o projeto.
+- Necessidade: Dados de acidentes viários organizados, integrados e confiáveis para análise.
+- Objetivo: Validar se o dashboard apresenta as informações de forma clara e útil.
+- Persona 2: Cliente 2 – Observatório
+- Descrição: Núcleo de inteligência que utiliza dados para gerar informações estratégicas e apoiar decisões.
+- Necessidade: Visualizar indicadores, padrões e tendências a partir de grandes volumes de dados.
+- Dor: Dificuldade em transformar dados brutos em análises rápidas e visuais.
+- Objetivo: Utilizar dashboards interativos para apoiar a tomada de decisão. 
 
 ---
 
