@@ -27,7 +27,7 @@ etapa foi realizada a finalização do design do dashboard desenvolvido nas spri
 - A análise é limitada aos dados disponibilizados para o período de 2015 a 2025.
 
 **Escopo reduzido**
-O escopo desta Sprint foi definido para responder às seguintes perguntas:
+- O escopo desta Sprint foi definido para responder às seguintes perguntas:
 - Existe correlação entre o crescimento da frota de veículos pesados e o aumento de sinistros fatais?
 - Como os indicadores de segurança viária evoluíram entre 2015 e 2025?
 
