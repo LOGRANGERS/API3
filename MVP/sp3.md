@@ -25,8 +25,12 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Média      | Como usuário, quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.    | Média      | 7      | 
+| US2 | Média      | Como analista, quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.    | Média      | 7      | 
+| US3 | Baixa      | Como analista, quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa.     | Baixa      | 7      | 
+| US4 | Baixa      | Como usuário, quero visualizar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes, para identificar os melhores e piores desempenhos.   | Baixa      | 8      | 
+
+
 
 ---
 
