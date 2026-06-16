@@ -15,7 +15,7 @@ Um dashboard interativo que permite visualizar e comparar dados de forma clara, 
 ---
 
 ## 📝 Descrição da Solução
-etapa foi realizada a finalização do design do dashboard desenvolvido nas sprints anteriores, aprimorando a organização visual dos indicadores, gráficos e filtros para proporcionar uma melhor experiência de uso e interpretação dos dados.
+Nesta etapa foi realizada a finalização do design do dashboard desenvolvido nas sprints anteriores, aprimorando a organização visual dos indicadores, gráficos e filtros para proporcionar uma melhor experiência de uso e interpretação dos dados.
 
 **Funcionalidades principais incluídas**
 - Layout final padronizado e otimizado.
