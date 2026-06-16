@@ -1,6 +1,6 @@
 # LOG RANGERS
 
-![ebabd4d7-c73b-44b9-acbe-67e459a85dce](https://github.com/user-attachments/assets/3590d2ca-856f-4a2e-8fdb-33691ca19286)
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f36eae70-a446-46e2-b507-21c7a6c0f7a4" />
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
