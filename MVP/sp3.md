@@ -37,8 +37,10 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 3      | quero visualizar mapas interativos para analisar a distribuição geográfica dos dados de segurança viária. | Concluído|
+| 3      | quero visualizar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros. | Concluído|  
+| 3      | quero analisar a correlação entre o crescimento da frota de veículos pesados e os sinistros fatais, para entender possíveis relações de causa. | Concluído|  
+| 3      | quero visualizar um ranking de eficiência em segurança viária dos municípios com mais de 250 mil habitantes, para identificar os melhores e piores desempenhos. | Concluído|
 
 ---
 
