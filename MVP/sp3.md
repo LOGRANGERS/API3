@@ -1,10 +1,16 @@
 # 📌 MVP - Sprint 3
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+Disponibilizar a versão final do dashboard com visualizações aprimoradas para analisar a relação entre o crescimento da frota de veículos pesados, os sinistros fatais e a evolução dos indicadores de segurança viária entre 2015 e 2025.
+
+- Problema que resolve:
+Facilita a análise e interpretação de dados de segurança viária, tornando mais simples a identificação de tendências e padrões.
+
+- Hipótese a ser validada:
+Existe uma relação entre o crescimento da frota de veículos pesados e os sinistros fatais, além de mudanças nos indicadores de segurança viária ao longo dos anos.
+
+- Valor entregue ao usuário final:
+Um dashboard interativo que permite visualizar e comparar dados de forma clara, auxiliando na tomada de decisões e análises sobre segurança viária.
 
 ---
 
