@@ -76,10 +76,9 @@ Nesta etapa foi realizada a finalização do design do dashboard desenvolvido na
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+- Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.
+- Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores apresentados.
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint 
 ---
 
 ## 🚀 Próximos Passos
