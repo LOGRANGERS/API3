@@ -78,7 +78,7 @@ Nesta etapa foi realizada a finalização do design do dashboard desenvolvido na
 ## 📈 Métricas de Validação
 - Validação com Stakeholders: Número de apresentações e rodadas de homologação realizadas com o cliente (Observatório) ou orientadores para validar as funcionalidades e a precisão do dashboard.
 - Avaliação de Usabilidade e Clareza: Coleta de percepções sobre a facilidade de navegação pelos filtros e a clareza na interpretação dos indicadores apresentados.
-- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint 
+- Aderência aos Objetivos de Negócio: Capacidade técnica do MVP em responder de forma direta à pergunta central dessa sprint (Existe correlação entre crescimento da frota de veículos pesados e aumento de sinistros fatais? E Como os indicadores de segurança viária evoluíram entre 2024 e 2025)
 ---
 
 ## 🚀 Próximos Passos
