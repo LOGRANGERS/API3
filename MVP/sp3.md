@@ -71,7 +71,7 @@ Nesta etapa foi realizada a finalização do design do dashboard desenvolvido na
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize mapas interativos para analisar a distribuição geográfica dos dados de segurança viária.
 - O sistema deve registrar gráficos de tendência ao longo do tempo, para identificar padrões de crescimento ou redução dos sinistros.
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- Métricas coletadas: 
 
 ---
 
