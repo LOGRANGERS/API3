@@ -89,6 +89,4 @@ Nesta etapa foi realizada a finalização do design do dashboard desenvolvido na
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+ (https://youtu.be/yASv2rfmWUA)
